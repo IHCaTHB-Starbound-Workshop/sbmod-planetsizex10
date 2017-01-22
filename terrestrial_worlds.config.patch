@@ -1,0 +1,77 @@
+[[
+  {
+    "op": "replace",
+    "path": "/planetSizes/verysmall/size/0",
+    "value": 10000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/verysmall/size/1",
+    "value": 20000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/small/size/0",
+    "value": 30000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/small/size/1",
+    "value": 20000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/medium/size/0",
+    "value": 40000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/medium/size/1",
+    "value": 30000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/large/size/0",
+    "value": 60000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/large/size/1",
+    "value": 30000
+  }
+],[
+  {
+     "op": "test",
+     "path": "/planetSizes/huge"
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/huge/size/0",
+    "value": 80000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/huge/size/1",
+    "value": 40000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/mega/size/0",
+    "value": 110000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/mega/size/1",
+    "value": 70000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/immense/size/0",
+    "value": 160000
+  },
+  {
+    "op": "replace",
+    "path": "/planetSizes/immense/size/1",
+    "value": 80000
+  }
+]]

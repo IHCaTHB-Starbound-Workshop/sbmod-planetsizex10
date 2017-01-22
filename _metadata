@@ -1,0 +1,9 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "",
+  "friendlyName" : "Planet Size x10",
+  "includes" : ["FrackinUniverse"],
+  "name" : "PLANETSIZEX10.IHC",
+  "requires" : [],
+  "version" : "0.1"
+}
